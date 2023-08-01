@@ -7,7 +7,7 @@
 - 🌱 I'm currently sharpening my skills in `full-stack development`.
 - 🥅 My next goal is to learn more about `Dev projects`
 - 🏃‍♀️ I'm currently practicing `Leetcode`.
-- ✨ I Love watching basketball 🏀 and baseball games ⚾
+- ✨ I Love watching basketball games 🏀 and baseball games ⚾
 - 🤣 I hope to learn boxing one day 🥊
 - 📫 How to reach me: Please email me at this address `byronchang7118@gmail.com`, or contact me through LinkedIn
 - ⚡ Fun fact: I like to sleep a lot 😴
